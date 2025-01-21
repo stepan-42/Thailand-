@@ -3,7 +3,7 @@ from telebot import types
 from datetime import datetime, timezone, timedelta
 
 
-
+#string for token
 bot = telebot.TeleBot('7762704477:AAE0TyUIws5hgJid7VlUwhnp5XH5Nv3HcR0')
 
 
